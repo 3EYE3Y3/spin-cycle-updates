@@ -2,14 +2,16 @@
   "schema": 1,
   "channels": {
     "testflight": {
+      "source_time": 1792419334,
+      "commit": "b4e9e23",
       "runtime": 1,
-      "version": "0.1.0+ota.3",
-      "build": 3,
-      "url": "packs/spin-cycle-r1-b3.pck",
-      "sha256": "636ada325435e18ab9884f4c8d5ddb9fc1b5f5d201308f226a6528861371b318",
-      "size": 3868416,
-      "created": "2026-10-19T13:09:40.790016+00:00",
-      "notes": "ios-ota-20261019-2109"
+      "version": "0.1.0+ota.4",
+      "build": 4,
+      "url": "packs/spin-cycle-r1-b4.pck",
+      "sha256": "a0e1b416a2416cb4e9a7c17a0aaa4f427f8d1fe93c8d8e8ac2df0a9f877a4edb",
+      "size": 3891196,
+      "created": "2026-10-19T14:16:28.987907+00:00",
+      "notes": "ios-ota-20261019-2215"
     }
   }
 }
