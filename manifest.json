@@ -3,13 +3,13 @@
   "channels": {
     "testflight": {
       "runtime": 1,
-      "version": "0.1.0+ota.1",
-      "build": 1,
-      "url": "packs/spin-cycle-r1-b1.pck",
-      "sha256": "817ae15c23741c4a014767d5431ef0c5e06caca1624e5dd5799faab208583222",
-      "size": 2717152,
-      "created": "2026-10-19T11:47:39.737749+00:00",
-      "notes": "ios-ota-20261019-1946"
+      "version": "0.1.0+ota.2",
+      "build": 2,
+      "url": "packs/spin-cycle-r1-b2.pck",
+      "sha256": "d9d6a45a2439b1a86ca811125eb2385b8f6527328e5d6d70aed40a74800e58fa",
+      "size": 2724416,
+      "created": "2026-10-19T12:27:24.985707+00:00",
+      "notes": "ios-ota-20261019-2026"
     }
   }
 }
